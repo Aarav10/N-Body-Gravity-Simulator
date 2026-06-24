@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-👉 **[Launch Simulator](https://Aarav10.github.io/nbody-simulator)**
+👉 **[Launch Simulator](https://aarav10.github.io/N-Body-Gravity-Simulator/)**
 
 ---
 
